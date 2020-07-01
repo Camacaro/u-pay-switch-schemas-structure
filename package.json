@@ -1,0 +1,14 @@
+{
+  "name": "db-centralizada",
+  "version": "1.0.0",
+  "description": "Ejemplo de estructura ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus camacaro",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.2.4"
+  }
+}
